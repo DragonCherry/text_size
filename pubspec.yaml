@@ -1,6 +1,6 @@
 name: text_size
 description: A simple extension to determine TextSpan or String size before render it.
-version: 0.5.0
+version: 0.5.1
 homepage: https://github.com/DragonCherry/text_size
 
 environment:
